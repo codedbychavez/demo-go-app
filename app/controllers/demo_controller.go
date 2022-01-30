@@ -17,7 +17,7 @@ func NewDemoController(response string) DemoController {
 }
 
 // Go's way of binding a method to our controller
-// This method will return a random string we pass into our demo controller when instiating it
+// This method will return a random string we pass into our demo controller when instantiating it
 
 func (ctrl DemoController) ReturnString(c *fiber.Ctx) error {
 	return c.SendString(ctrl.response)
