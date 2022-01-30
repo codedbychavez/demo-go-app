@@ -1,5 +1,5 @@
-# demo-go-app
-Plain and simple demo go app (API)
+# go-app-api-boilerplate
+A simple go app (API) biolerplate
 
 ## Setup
 1. Clone this repo
