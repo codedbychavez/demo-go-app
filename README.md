@@ -1,5 +1,5 @@
 # go-app-api-boilerplate
-A simple go app (API) biolerplate
+A simple go app (API) boilerplate
 
 ## Setup
 1. Clone this repo
